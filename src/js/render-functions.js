@@ -1,5 +1,5 @@
 import SimpleLightbox from 'simplelightbox';
-import 'simplelightbox/dist/simple-leLightbox.min.css';
+import 'simplelightbox/dist/simple-lightbox.min.css';
 
 const simpleGallery = new Simplelightbox('.item a',{
     captions: true,
